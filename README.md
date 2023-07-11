@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo desenvolvimento Web .
 
 <h3 align="left">Connect With me</h3>
-<a href=www.linkedin.com/in/joão-pedro-soares-da-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/gustavoleterio/" height="30" width="40" /></a>
+<p align="left"><a href=www.linkedin.com/in/joão-pedro-soares-da-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/gustavoleterio/" height="30" width="40" /></a></p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JP-Soares&show_icons=true&theme=radical"
