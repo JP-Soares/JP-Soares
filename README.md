@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JP-Soares&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JP-Soares&theme=radical" alt="Streak and Contributions" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JP-Soares&theme=radical" alt="Streak and Contributions" /></p>
